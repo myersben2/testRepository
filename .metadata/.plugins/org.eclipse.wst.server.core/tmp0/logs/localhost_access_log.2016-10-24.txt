@@ -1,0 +1,6 @@
+127.0.0.1 - - [24/Oct/2016:20:37:22 -0400] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [24/Oct/2016:20:37:24 -0400] "GET /TechFam/WEB-INF/classes/myPackage/Signin.java HTTP/1.1" 404 949
+127.0.0.1 - - [24/Oct/2016:20:38:16 -0400] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [24/Oct/2016:20:38:17 -0400] "GET /TechFam/WEB-INF/classes/myPackage/Signin.java HTTP/1.1" 404 949
+127.0.0.1 - - [24/Oct/2016:20:45:09 -0400] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [24/Oct/2016:20:45:09 -0400] "GET /TechFam/WEB-INF/classes/myPackage/Signin.java HTTP/1.1" 404 949

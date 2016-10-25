@@ -1,0 +1,9 @@
+package myPackage;
+
+public class Signin {
+
+	public Signin() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
